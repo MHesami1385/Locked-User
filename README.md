@@ -25,7 +25,7 @@
 
 ### Deployment
 
-1. Place the `scripts` in the `C:\` directory
+1. Place the scripts in the `C:\scripts` directory
 2. Edit the `$botToken` and `$chatId` in the `Locked-User.ps1` with your Telegram bot info.
 3. Run the `RUN_ME.ps1` to create the related task
 
