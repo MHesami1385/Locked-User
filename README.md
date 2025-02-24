@@ -39,3 +39,4 @@
 
 - You can delete the task in
   > `taskschd.msc`>Task Scheduler Library>Run Script on Event 4740>delete
+- This project can only be deployed on servers that their Operating Systems are Windows.
